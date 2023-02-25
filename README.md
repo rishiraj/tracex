@@ -2,7 +2,7 @@
 Trace variables and the operations on them using graphviz visualizations.
 
 - wrap the variables in Float() and perform operations
-- call draw() function on variables just like print()
+- call draw() function on the variables just like print()
 
 NOTE: PRs are currently not accepted for source code. If there are issues/problems, please create an issue.
 
