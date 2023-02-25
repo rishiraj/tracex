@@ -30,6 +30,7 @@ print(f)
 
 draw(f)
 ```
+![](https://raw.githubusercontent.com/rishiraj/tracex/main/tracex_demo.svg)
 
 # Examples
 NOTE: PRs are currently accepted for examples. If there are examples you've created, please create a PR.
