@@ -11,6 +11,7 @@ INSTALL_REQUIRES = [
 if __name__ == "__main__":
     setup(
         name="tracex",
+        version="0.1.0",
         description="tracex: tracing / visualization",
         long_description=long_description,
         long_description_content_type="text/markdown",
